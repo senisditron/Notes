@@ -2,6 +2,8 @@
 
 A simple, lightweight, and secure notes application built with **Jetpack Compose** and **Material 3**. (FOSS)
 
+[**Download APK**](https://github.com/senisditron/Notes/releases/latest)
+
 ## Features
 * 🎨 **Material 3 Design** – Supports dynamic colors (Material You).
 * 🔒 **Biometric Lock** – Keep your notes private with fingerprint authentication.
