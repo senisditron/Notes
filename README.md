@@ -18,7 +18,6 @@ A simple, lightweight, and secure notes application built with **Jetpack Compose
   <img src="https://github.com/user-attachments/assets/51af0396-e1bd-44e2-8889-dd810ae3defa" width="250" />
 </p>
 
-## Powered By
 ## Built Using
 * **Kotlin** + **Jetpack Compose**
 * **Room Database** (Local storage)
